@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+	<img width="" height = "" src="https://github.com/nishanth01/nishanth01/blob/main/header.gif" alt="cover" />
+</div>
 
 <!--
 **nishanth01/nishanth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
