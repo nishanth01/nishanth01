@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="400" height = "" src="https://github.com/nishanth01/nishanth01/blob/main/header.gif" alt="cover" />
+	<img width="100%" height = "" src="https://github.com/nishanth01/nishanth01/blob/main/header.gif" alt="cover" />
 </div>
 
 <!--
