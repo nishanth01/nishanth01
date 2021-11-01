@@ -11,7 +11,8 @@ Systems architect at Cisco Systems,Inc. Machine Learning and Robotics enthusiast
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nishanth01&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
 
-<p align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=nishanth01.nishanth01)</p>
+<p align="center"><a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=nishanth01.nishanth01"></a></p>
+
 
 
 <!--
