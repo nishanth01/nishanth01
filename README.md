@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">About me</h1>
 
-Systems architect at Cisco Systems,Inc. 
-Machine Learning and Robotics enthusiast.
+Systems architect at Cisco Systems,Inc. \n Machine Learning and Robotics enthusiast.
 
 
 <h2 align="left">Quick Stats</h2>
@@ -68,3 +67,4 @@ The notes have been summarized from various sources including courses from Cours
 | Cloud Platforms | Google Cloud Platform, Amazon Web Services |
 | Messaging | Kafka, Rabbit MQ |
 | AI Libraries and Frameworks | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> Robot Operating System(ROS) |
+| others | <img src="https://templates.images.credential.net/15929551215786304368956491751126.png"> |
