@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <p>
     Systems architect at Cisco Systems,Inc. <br>
     Machine Learning and Robotics enthusiast. <br> 
-    <a href="https://www.credential.net/f0e9f197-2488-4258-840e-c08389c2987b">Certified ML Engineer</a>
+    <a href="https://www.credential.net/f0e9f197-2488-4258-840e-c08389c2987b">Google Certified Professional ML Engineer</a>
   </p>
 
 <h2 align="left">Quick Stats</h2>
@@ -51,12 +51,13 @@ The notes have been summarized from various sources including courses from Cours
 </details>
 
 <details>
-  <summary>Projects in Machine Learning</summary>
+  <summary>Autonomous Systems</summary>
 </details>
 
 <details>
-  <summary>Cocepts and Code for Autonomous Systems</summary>
+  <summary>Projects in Machine Learning</summary>
 </details>
+
 
 
 <h2>Skills</h2>
@@ -69,4 +70,3 @@ The notes have been summarized from various sources including courses from Cours
 | Cloud Platforms | Google Cloud Platform, Amazon Web Services |
 | Messaging | Kafka, Rabbit MQ |
 | AI Libraries and Frameworks | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> Robot Operating System(ROS) |
-| others | <img height="32" width="32" src="https://templates.images.credential.net/15929551215786304368956491751126.png"> |
