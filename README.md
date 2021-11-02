@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Quick Stats</h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nishanth01&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nishanth01&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true&hide=contribs,prs" width="400"></p>
 
 <p align="center"><a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=nishanth01.nishanth01"></a></p>
 
@@ -75,7 +75,7 @@ The notes have been summarized from various sources including courses from Cours
 
 - <a href="https://github.com/nishanth01/summary_final">Long text summarization using Pointer Generator Networks</a>
     - More details can be found in this <a href="https://drive.google.com/file/d/1Ql2J15E7EuZrhq9wQeKuZ1zrWZl7R-zm/view?usp=sharing">paper</a> 
-- <a href="https://github.com/UCB-MIDS/w210_lastFM">Predicting user session length in media streaming</a>
+- <a href="https://github.com/UCB-MIDS/w210_lastFM">Predicting user session length in streaming media</a>
 - <a href="https://github.com/nishanth01/CarND-Capstone">Programming a self driving car</a> 
 - <a href="https://github.com/nishanth01/CppND-System-Monitor">Implement a system monitor using C++</a>
 - <a href="https://www.ischool.berkeley.edu/projects/2018/beer-lovers-guide-breweries">A Beer Lover's guide to Breweries</a>
