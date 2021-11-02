@@ -47,18 +47,52 @@ The notes have been summarized from various sources including courses from Cours
 
 <details open>
   <summary>Concepts in Machine Learning</summary>
+
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/1.Probability_Statistics">Probability and Statistics</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/2.Basic_Algorithms">Naive Bayes, Nearest Neighbors & Decision Trees</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/3.Regression">Regression</a>  
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/4.Deep_Learning">Deep Learning</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/5.Recommender_Systems">Recommendation Systems</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/6.Unsupervised_Learning">Unsupervised Learning</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/7.Natural_Langugage_Processing">Natural Language Processing</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/8.Field_Experiments">Field Experiments</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/9.Graphs">Graphs</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/10.Google_professional_ml_engineer_notes">Notes for Google Cloud Professional ML Engineer Certification</a>
+  
+  
 </details>
 
 <details open>
-  <summary>Projects in Machine Learning</summary>
+  <summary>Autonomous Systems</summary>
+
+- <a href="https://github.com/nishanth01/autonomous-systems/tree/main/1.Computer_Vision">Vision Fundamentals</a>
+  
 </details>
 
 <details open>
-  <summary>Cocepts and Code for Autonomous Systems</summary>
+  <summary>Projects</summary>
+
+- <a href="https://github.com/nishanth01/summary_final">Long text summarization using Pointer Generator Networks</a>
+    - More details can be found in this <a href="https://drive.google.com/file/d/1Ql2J15E7EuZrhq9wQeKuZ1zrWZl7R-zm/view?usp=sharing">paper</a> 
+- <a href="https://github.com/UCB-MIDS/w210_lastFM">Predicting user session length in streaming media</a>
+- <a href="https://github.com/nishanth01/CarND-Capstone">Programming a self driving car</a> 
+- <a href="https://github.com/nishanth01/CppND-System-Monitor">Implement a system monitor using C++</a>
+- <a href="https://www.ischool.berkeley.edu/projects/2018/beer-lovers-guide-breweries">A Beer Lover's guide to Breweries</a>
+
 </details>
+
 
 
 <h2>Skills</h2>
+
+| | |
+|---|---|
+| Languages | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">|
+| Storage | <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img height="28" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/snowflake.svg"/> Oracle |
+| Data Processing | Apache Spark, Apache Beam, Apache Airflow |
+| Cloud Platforms | Google Cloud Platform, Amazon Web Services |
+| Messaging | Kafka, Rabbit MQ |
+| AI Libraries and Frameworks | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> Robot Operating System(ROS) |
 
 
 
