@@ -19,13 +19,16 @@ Here are some ideas to get you started:
 
 <h1 align="left">About me</h1>
 
-Systems architect at Cisco Systems,Inc. 
-Machine Learning and Robotics enthusiast.
+<p>
+    Systems architect at Cisco Systems,Inc. <br>
+    Machine Learning and Robotics enthusiast. <br> 
+    <a href="https://www.credential.net/f0e9f197-2488-4258-840e-c08389c2987b">Google Certified Professional ML Engineer</a>
+</p>
 
 
 <h2 align="left">Quick Stats</h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nishanth01&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nishanth01&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true&hide=contribs,prs" width="400"></p>
 
 <p align="center"><a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=nishanth01.nishanth01"></a></p>
 
