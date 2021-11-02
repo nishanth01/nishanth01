@@ -65,10 +65,21 @@ The notes have been summarized from various sources including courses from Cours
 
 <details>
   <summary>Autonomous Systems</summary>
+
+- <a href="https://github.com/nishanth01/autonomous-systems/tree/main/1.Computer_Vision">Vision Fundamentals</a>
+  
 </details>
 
 <details>
-  <summary>Projects in Machine Learning</summary>
+  <summary>Projects</summary>
+
+- <a href="https://github.com/nishanth01/summary_final">Long text summarization using Pointer Generator Networks</a>
+    - More details can be found in this <a href="https://drive.google.com/file/d/1Ql2J15E7EuZrhq9wQeKuZ1zrWZl7R-zm/view?usp=sharing">paper</a> 
+- <a href="https://github.com/UCB-MIDS/w210_lastFM">Predicting user session length in media streaming</a>
+- <a href="https://github.com/nishanth01/CarND-Capstone">Programming a self driving car</a> 
+- <a href="https://github.com/nishanth01/CppND-System-Monitor">Implement a system monitor using C++</a>
+- <a href="https://www.ischool.berkeley.edu/projects/2018/beer-lovers-guide-breweries">A Beer Lover's guide to Breweries</a>
+
 </details>
 
 
