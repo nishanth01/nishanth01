@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">About me</h1>
 
-Systems architect at Cisco Systems,Inc. \n Machine Learning and Robotics enthusiast.
+Systems architect at Cisco Systems,Inc. \n Machine Learning and Robotics enthusiast. \n <a href="https://www.credential.net/f0e9f197-2488-4258-840e-c08389c2987b">Certified ML Engineer<\a>
 
 
 <h2 align="left">Quick Stats</h2>
