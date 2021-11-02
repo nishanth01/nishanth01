@@ -48,6 +48,19 @@ The notes have been summarized from various sources including courses from Cours
 
 <details>
   <summary>Concepts in Machine Learning</summary>
+
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/1.Probability_Statistics">Probability and Statistics</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/2.Basic_Algorithms">Naive Bayes, Nearest Neighbors & Decision Trees</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/3.Regression">Regression</a>  
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/4.Deep_Learning">Deep Learning</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/5.Recommender_Systems">Recommendation Systems</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/6.Unsupervised_Learning">Unsupervised Learning</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/7.Natural_Langugage_Processing">Natural Language Processing</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/8.Field_Experiments">Field Experiments</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/9.Graphs">Graphs</a>
+- <a href="https://github.com/nishanth01/Fundamentals-of-Machine-Learning/tree/master/10.Google_professional_ml_engineer_notes">Notes for Google Cloud Professional ML Engineer Certification</a>
+  
+  
 </details>
 
 <details>
