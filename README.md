@@ -58,4 +58,12 @@ The notes have been summarized from various sources including courses from Cours
 </details>
 
 
+<h2>Skills</h2>
 
+|topic | skills|
+|---|---|
+| Languages | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> |
+| Storage |  |
+| Data Processing |  |
+| Cloud Platforms |  |
+| Messaging |  |  
