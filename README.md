@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<img width="100%" height = "" src="https://github.com/nishanth01/nishanth01/blob/main/header.gif" alt="cover" />
+	<img width="100%" height = "" src="https://github.com/nishanth01/nishanth01/blob/main/header_4.gif" alt="cover" />
 </div>
 
 <h1 align="left">About me</h1>
