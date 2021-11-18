@@ -38,6 +38,7 @@ The notes have been summarized from various sources including courses from Cours
 
 <h2>Contents</h2>
 
+<!--
 <details open>
   <summary>Data structures and Algorithms</summary>
   
@@ -47,6 +48,7 @@ The notes have been summarized from various sources including courses from Cours
 - <a href="https://github.com/nishanth01/datastructure_algorithms/tree/main/4.graphs">Graphs</a>
 
 </details>
+-->
 
 <details open>
   <summary>Concepts in Machine Learning</summary>
